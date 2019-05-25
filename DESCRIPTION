@@ -5,6 +5,7 @@ Authors@R: c(person("Edzer", "Pebesma", role = c("aut", "cre"), email = "edzer.p
 License: GPL-2
 Depends: R (>= 3.3.0)
 Imports: sf
+Suggests: knitr
 Description: Support for other features
 Collate: test.R
 VignetteBuilder: knitr
