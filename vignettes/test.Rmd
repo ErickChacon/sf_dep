@@ -1,3 +1,14 @@
+---
+title: "Simple test"
+author: "Erick A. Chacón-Montalván"
+date: "`r Sys.Date()`"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{Simple test}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
 test vignette
 
 ```{r}
