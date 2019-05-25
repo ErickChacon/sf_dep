@@ -1,0 +1,7 @@
+test vignette
+
+```{r}
+library(sfdep)
+f(3)
+```
+
